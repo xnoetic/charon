@@ -160,8 +160,7 @@ charon/
 │   ├── charon-daemon/   # axum HTTP/WS server，NyxID JWT 验签
 │   └── charon-cli/      # `charon` 命令行
 ├── poc/echo-daemon/     # M1 之前用来验证全链路的 PoC echo daemon（保留作回归 smoke）
-├── docs/                # 设计文档（按 01 → 05 顺序读）
-└── .github/workflows/   # CI
+└── docs/                # 设计文档（按 01 → 05 顺序读）
 ```
 
 ## 文档
